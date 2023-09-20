@@ -1,0 +1,48 @@
+body {
+ background-image: url(/img/fondo\ celular\ 8bit\ gato\ pixel\ retro\ atardecer\ morado.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-style: italic;
+ font-size: xx-large;
+ font-weight: bolder;
+ color: black;
+}
+
+section {
+ text-align: center;
+ padding: 10px;
+ width: 35%;
+ height: 10%;
+}
+
+ul {
+ list-style: none;
+ padding: 0;
+ background-color: aqua;
+
+}
+
+ul li {
+ cursor: grab
+}
+
+ul li:hover {
+ border: 2px solid wheat;
+}
+
+h1 {
+ background-color: aquamarine;
+}
+
+h2 {
+ background-color: bisque;
+}
+
+#inventario li {
+ display: inline-block;
+}
+
+#oro {
+ background-color: gold;
+}
